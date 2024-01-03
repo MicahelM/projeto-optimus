@@ -1,0 +1,18 @@
+@import url(header.css);
+
+
+:root {
+
+    --cor-de-fundo: #FFFFFF;
+    --cor-principal: #667085;
+    --cor-destaque: #8E2424;
+
+    --font-principal: 'Inter', sans-serif;
+
+}
+
+body {
+    background: var(--cor-de-fundo);
+    color: var(--cor-principal);
+    font:500 16px var(--font-principal);
+}

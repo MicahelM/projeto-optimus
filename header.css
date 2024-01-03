@@ -1,0 +1,28 @@
+
+
+.navegacao {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin: 1em 0 1em 0;
+}
+
+.navegacao__logo {
+    margin-right: 10em;
+}
+
+.navegacao__link, .navegacao__botao {
+    text-decoration: none;
+    color: var(--cor-principal);
+    margin-right: 0.5em;
+}
+
+.navegacao__botao {
+    background-color: var(--cor-destaque);
+    color: var(--cor-de-fundo);
+    border-radius: 5px;
+    padding: 8px;
+}
+
+
