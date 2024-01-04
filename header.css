@@ -4,18 +4,13 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    text-align: center;
-    margin: 1em 0 1em 0;
-}
-
-.navegacao__logo {
-    margin-right: 10em;
+    margin: 2em 0;
 }
 
 .navegacao__link, .navegacao__botao {
     text-decoration: none;
     color: var(--cor-principal);
-    margin-right: 0.5em;
+    margin-right: 2em;
 }
 
 .navegacao__botao {
@@ -23,6 +18,29 @@
     color: var(--cor-de-fundo);
     border-radius: 5px;
     padding: 8px;
+}
+
+.cabecalho {
+    text-align: center;
+    margin: 5em 0;
+}
+
+span {
+    color: var(--cor-destaque);
+    font-weight: 600;
+}
+
+.cabecalho__titulo {
+    color: var(--preto);
+    margin: 2em 0;
+    font-weight: 600;
+    font-size: 48px;
+}
+
+.cabecalho__texto {
+    font-weight: 400;
+    font-size: 20px;
+    margin: 0 17em;
 }
 
 
