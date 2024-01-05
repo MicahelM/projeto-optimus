@@ -40,7 +40,9 @@ span {
 .cabecalho__texto {
     font-weight: 400;
     font-size: 20px;
-    margin: 0 17em;
+    width: 46vw;
+    margin: auto;
+    
 }
 
 

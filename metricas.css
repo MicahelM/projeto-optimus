@@ -1,0 +1,26 @@
+.metricas {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 5em;
+    margin: 0 5em;
+}
+
+.metricas__itens {
+    text-align: left;
+    margin: auto;
+    width: 16vw;
+}
+
+.metricas__titulo {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--cor-destaque);
+    
+}
+
+.metricas__subtitulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--preto);
+    margin: 1em 0;
+}
