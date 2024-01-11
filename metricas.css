@@ -2,12 +2,11 @@
     display: flex;
     justify-content: space-around;
     margin-bottom: 5em;
-    margin: 0 5em;
+    
 }
 
 .metricas__itens {
     text-align: left;
-    margin: auto;
     width: 16vw;
 }
 

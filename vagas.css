@@ -1,0 +1,55 @@
+.vagas {
+    text-align: center;
+    margin: 5em 0;
+}
+
+.vagas__span {
+    color: var(--cor-destaque);
+    font-weight: 600;
+    background-color: #8f24240d;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.vagas__titulo {
+    color: var(--preto);
+    margin: 1em 0;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.vagas__texto {
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 4em;
+}
+
+.vagas__img {
+    margin: auto;
+    width: 84vw;
+}
+
+.vagas__vaga {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.vaga {
+    margin: 2em 0;
+    padding: 2em;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+.vaga__area {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.vaga__titulo {
+    color: var(--preto);
+}
+
+.vaga__informacoes {
+    margin-top: 2em;
+}
